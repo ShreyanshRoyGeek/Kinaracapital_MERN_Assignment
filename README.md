@@ -34,11 +34,19 @@ npm start  (to start both frontend and backend)
 
 
 
+## View  
 
 
+<img src="https://github.com/ShreyanshRoyGeek/Java-Logical_Programming/blob/main/kinaracaptial_app.1.png?raw=true" width="950" height="450"/>
 
 
+<img src=https://github.com/ShreyanshRoyGeek/Java-Logical_Programming/blob/main/kinaracapital_app_3.png?raw=true" width="950" height="450"/>
 
+
+<img src="https://github.com/ShreyanshRoyGeek/Java-Logical_Programming/blob/main/kinaracapital_app_4.png?raw=true" width="950" height="450"/>
+
+
+<img src="https://github.com/ShreyanshRoyGeek/Java-Logical_Programming/blob/main/kinaracapital_app_5.png?raw=true" width="950" height="450"/>
 
 
 
