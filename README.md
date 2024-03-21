@@ -9,7 +9,8 @@
 # Getting started
 - Clone the repository
 ```
-git clone  https://github.com/ShreyanshRoyGeek/Kinaracapital_MERN_Assignmet
+git clone https://github.com/ShreyanshRoyGeek/Kinaracapital_MERN_Assignment.git
+
 ```
 - Install dependencies
 ```
